@@ -1,3 +1,5 @@
+🇧🇷 **Versão em português:** [Clique aqui]()
+
 # Student Management System 🏫
 
 A command-line interface (CLI) system developed in Python and MySQL to manage school information, including the registration and control of classes, students, and grades.
