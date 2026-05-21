@@ -1,4 +1,4 @@
-Markdown
+
 # Sistema de Gerenciamento de Alunos 🏫
 
 Um sistema em linha de comando (CLI) desenvolvido em Python e MySQL para gerenciar informações escolares, incluindo o cadastro e controle de turmas, alunos e notas.
